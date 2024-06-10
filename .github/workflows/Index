@@ -1,1 +1,6 @@
-<h1>Hola, mundo!</h1>
+mkdir mi-pagina-web
+cd mi-pagina-web
+echo "<h1>Hola, mundo!</h1>" > index.html
+git init
+git add .
+git commit -m "Primer commit"
